@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Adamina&family=Aladin&family=Alice&family=Permanent+Marker&display=swap");
+
+body {
+  margin: 0px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Adamina", serif;
+}
+
+.card {
+  padding: 20px;
+  background: #023085;
+  display: flex;
+  width: 450px;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  text-align: center;
+  border-bottom: 6px solid rgb(2, 119, 158);
+}
+
+.avatar {
+  width: 150px;
+}
